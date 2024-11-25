@@ -58,6 +58,9 @@ body{
     align-items: center;
 }
 .media-buttons .link{
+    height: 34px;
+    width: 34px;
+    margin: 0 8px;
     text-decoration: none;
     background-color: blueviolet;
 }
