@@ -21,7 +21,17 @@ body{
     border-radius: 25px;
     padding: 25px;
     box-shadow: 0 5px 10px rgba(0, 0,0, 0.1);
+    position: relative;
 }
+.profile-card::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 36%;
+  width: 100%;
+  background-color: blueviolet;
+} 
 .image{
     position: relative;
     height: 150px;
