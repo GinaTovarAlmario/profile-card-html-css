@@ -96,3 +96,6 @@ body{
     border-radius: 24px;
     cursor: pointer;
 }
+.buttons .button:hover{
+    background-color: lightslategray;
+}
