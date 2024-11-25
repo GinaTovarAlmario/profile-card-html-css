@@ -29,6 +29,8 @@ body{
     border-radius: 50%;
     background-color: blueviolet;
     padding: 3px;
+    margin-bottom: 15px;
+
 }
 .image .profile-img{
     height: 100%;
