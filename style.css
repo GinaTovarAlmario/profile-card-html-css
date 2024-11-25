@@ -80,3 +80,8 @@ body{
 #github{
     background-color: #333;
 }
+.profile-card .buttons{
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
