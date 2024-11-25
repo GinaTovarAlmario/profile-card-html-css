@@ -85,3 +85,11 @@ body{
     align-items: center;
     margin-top: 25px;
 }
+.buttons .button{
+    margin: 0 10px;
+    padding: 8px 24px;
+    background-color: blueviolet;
+    color: #fff;
+    border-radius: 24px;
+    cursor: pointer;
+}
